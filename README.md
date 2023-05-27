@@ -9,5 +9,4 @@ This repository contains code for automated individual salmon frequency extracti
 
 Below, a video visualizing the output of the salmon frequnecy extraction pipeline up until the sine wave function fitting (see the thesis report) is displayed.
 
-https://github.com/espenbh/salmon_welfare_analysis_by_automated_respiration_frequency_extraction/assets/59967194/b4101865-f772-48d9-a2cc-14af3106b138
-
+https://github.com/espenbh/salmon_welfare_analysis_by_automated_respiration_frequency_extraction/assets/59967194/72bf0d30-9aee-40af-be39-77b44ea5fbfd
