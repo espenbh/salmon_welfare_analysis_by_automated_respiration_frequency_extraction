@@ -1,1 +1,5 @@
 # salmon_welfare_analysis_by_automated_respiration_frequency_extraction
+
+
+https://github.com/espenbh/salmon_welfare_analysis_by_automated_respiration_frequency_extraction/assets/59967194/84c94c85-1a48-4d40-b427-6f68ec825ace
+
